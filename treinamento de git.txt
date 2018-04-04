@@ -1,0 +1,8 @@
+comandos
+git status
+git commit -m "bla bla bla"
+git checkout . // volta o estado anterior de um arquivo antes de uma mudança
+git log // mostra o histórico de alterações/commits
+git diff // mostra as alterações que o arquivo teve
+git branch "nome da nova branch" // cria uma nova branch
+git checkout -b "nome da nova branch" // para criar uma nova branch e vai para a nova branch
